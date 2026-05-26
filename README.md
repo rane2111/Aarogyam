@@ -1,4 +1,4 @@
-# Aarogyam Health Hub 96
+# Aarogyam Health hub
 
 A comprehensive digital health platform that connects patients with healthcare services, provides symptom checking, medicine search, pharmacy inventory management, and telemedicine consultations.
 

@@ -324,6 +324,13 @@ The project supports multiple languages via the `src/i18n/` directory. Add new l
 - **Tailwind CSS**: https://tailwindcss.com/docs
 - **Vite Guide**: https://vitejs.dev/guide/
 
+  working demo
+user portal
+  <img width="1920" height="1020" alt="Screenshot 2026-04-06 011149" src="https://github.com/user-attachments/assets/da67393a-e1ba-4e73-a5ed-567361d4807e" />
+
+pharmacy portal
+<img width="1920" height="1020" alt="Screenshot 2026-04-06 012139" src="https://github.com/user-attachments/assets/0fdc3fb9-14e5-42de-81cb-86146a4b7003" />
+
 ## 📄 License
 
 This project is proprietary. All rights reserved.
